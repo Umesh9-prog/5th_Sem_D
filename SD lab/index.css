@@ -8,3 +8,16 @@
     height: 650px;
     margin-top: 16px;
 }
+
+.a{
+    font-size: 30px;
+    color: #222222;
+    text-decoration: none;
+   
+}
+
+a:hover{
+    background-color: black;
+    color: white;
+}
+
